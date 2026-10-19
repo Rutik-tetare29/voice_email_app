@@ -1090,5 +1090,246 @@
     "details": {
       "count": 10
     }
+  },
+  {
+    "timestamp": "2026-03-27T13:43:15.840499+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "dashboard_viewed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "role": "user"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:43:25.281228+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "emails_fetched",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "count": 10
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:43:42.463698+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "choosing_service"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:43:55.936855+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "service_selected"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:44:14.465986+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "unknown"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:44:40.522095+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "unknown"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:44:56.836047+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "unknown"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:45:12.828768+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "unknown"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:45:35.877088+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "unknown"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:46:05.097566+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "unknown"
+    }
+  },
+  {
+    "timestamp": "2026-03-27T13:46:19.809052+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "voice_command_processed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "intent": "unknown"
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:07:32.617403+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "dashboard_viewed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "role": "user"
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:07:43.428183+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "emails_fetched",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "count": 10
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:16:21.732966+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "confirm_start",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "action_type": "email_send"
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:16:33.669866+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "pin_verification_failed",
+    "status": "error",
+    "ip": "127.0.0.1",
+    "details": {
+      "remaining": 2
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:18:04.576295+00:00",
+    "user_email": "rutiktetare@gmail.com",
+    "role": "user",
+    "action": "logout",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-10-19T16:18:49.927813+00:00",
+    "user_email": "rutiktetare206@gmail.com",
+    "role": "admin",
+    "action": "dashboard_viewed",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "role": "admin"
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:18:57.936663+00:00",
+    "user_email": "rutiktetare206@gmail.com",
+    "role": "admin",
+    "action": "emails_fetched",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "count": 10
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:19:12.934946+00:00",
+    "user_email": "rutiktetare206@gmail.com",
+    "role": "admin",
+    "action": "confirm_start",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "action_type": "email_send"
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:19:17.350134+00:00",
+    "user_email": "rutiktetare206@gmail.com",
+    "role": "admin",
+    "action": "pin_verification_failed",
+    "status": "error",
+    "ip": "127.0.0.1",
+    "details": {
+      "remaining": 2
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:19:44.665951+00:00",
+    "user_email": "rutiktetare206@gmail.com",
+    "role": "admin",
+    "action": "confirm_approved",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "challenge_id": "63a7e10f691f4477988cc9dac31291a6"
+    }
+  },
+  {
+    "timestamp": "2026-10-19T16:19:46.477913+00:00",
+    "user_email": "rutiktetare206@gmail.com",
+    "role": "admin",
+    "action": "email_sent",
+    "status": "success",
+    "ip": "127.0.0.1",
+    "details": {
+      "to": "no-reply@accounts.google.com",
+      "subject": "Re: Security alert"
+    }
   }
 ]
